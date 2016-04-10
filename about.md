@@ -1,15 +1,17 @@
 ---
 layout: page
-title: About
+title: Státní hrad Bítov
 permalink: /about/
 ---
 
-Some information about you!
+Ahoj, 
+moje jméno je Kristýna Šoukalová (20 let). Studuji informační studia a knihovnictví na FF MU v Brně.
+Toto je úkol do předmětu - Nástroje a možnosti internetu.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Úkol by měl obsahovat základní informace ohledně Státního hradu Bítov.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[kristynasoukalova@gmail.com](mailto:kristynasoukalova@gmail.com)
